@@ -94,12 +94,6 @@
 				<!-- Empties build.number value -->
 				<build.number></build.number>
 			</properties>
-			<distributionManagement>
-				<repository>
-					<id>github</id>
-					<url>https://maven.pkg.github.com/BONNePlayground/DragonFights</url>
-				</repository>
-			</distributionManagement>
 		</profile>
 	</profiles>
 
